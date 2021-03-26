@@ -1,16 +1,10 @@
 # Test algorithm skill
 
-## Open Terminal or Command Prompt.
-```
+## 1. Open Terminal or Command Prompt.
 
-```
+### 2. Set Path to where File is Located (using cd).
 
-### Set Path to where File is Located (using cd).
-```
-
-```
-
-### Type “node (file name)” and Click Enter
+### 3. Type “node (file name)” and Click Enter
 ```
 node problem_1.js
 ```
